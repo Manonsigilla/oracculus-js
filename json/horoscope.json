@@ -1,0 +1,35 @@
+[{
+    "id":1,
+    "signe":"Bélier",
+    "date":"21 mars au 19 avril",
+    "amour":"Ce mois-ci s'annonce passionné et excitant. Votre charme naturel sera irrésistible, attirant de nouvelles personnes dans votre vie. Pour les couples, la communication sera la clé pour renforcer les liens existants. Vous ressentirez un désir intense et une profonde connexion émotionnelle. Prenez le temps de raviver la flamme et de créer des souvenirs inoubliables avec votre partenaire.",
+    "travail":"Dans le domaine professionnel, les astres prédisent une période de croissance et d'accomplissement. Votre détermination et votre créativité seront vos atouts principaux. Soyez prêt à saisir de nouvelles opportunités et à relever des défis ambitieux. Votre leadership sera reconnu, ce qui pourrait ouvrir des portes vers l'avancement ou de nouveaux projets passionnants. Restez concentré sur vos objectifs et travaillez avec acharnement pour atteindre vos ambitions professionnelles.",
+    "argent":"En ce qui concerne vos finances, Bélier, ce mois-ci s'annonce plutôt stable et propice à la gestion prudente de votre argent. Vous aurez l'opportunité de consolider vos finances et de mettre en place des stratégies d'économie judicieuses. Évitez les dépenses impulsives et concentrez-vous sur la planification financière à long terme. Les investissements réfléchis pourraient porter leurs fruits. Restez vigilant et évitez les prises de risques inutiles pour maintenir une situation financière solide.",
+    "sante":"Ce mois-ci, accordez une attention particulière à votre bien-être physique et mental. Pratiquez régulièrement une activité physique pour maintenir votre énergie et votre vitalité. N'oubliez pas de prendre des moments de relaxation pour gérer le stress. Une alimentation équilibrée et un sommeil suffisant sont essentiels pour maintenir une bonne santé.",
+    "famille":"Votre famille et vos amis seront une source de soutien et de réconfort ce mois-ci. Passez du temps de qualité avec vos proches pour renforcer les liens affectifs. Écoutez leurs préoccupations et partagez les vôtres. La communication ouverte sera la clé pour maintenir des relations harmonieuses.",
+    "conseil":" Ce mois-ci, rappelez-vous que la patience est une vertu. Ne vous précipitez pas dans vos décisions, que ce soit dans votre carrière, vos finances ou vos relations. Prenez le temps de réfléchir et d'évaluer toutes les options avant de prendre des décisions importantes. La réflexion approfondie vous aidera à éviter les erreurs potentielles et à atteindre vos objectifs de manière plus efficace.",
+    "image":"/img/belier.png"},
+
+    {
+    "id":2,
+    "signe":"Cancer",
+    "date":"21 juin au 22 juillet",
+    "amour":"Les Cancers célibataires pourraient faire une rencontre inattendue cette semaine, ouvrant la porte à une nouvelle romance pleine de douceur et de complicité. Pour les Cancers en couple, il est temps de renforcer les liens et de créer une atmosphère chaleureuse à la maison, propice à la communication et à la compréhension mutuelle. L'amour et l'intimité seront au cœur de vos préoccupations, Cancer. Exprimez ouvertement vos sentiments pour renforcer les liens émotionnels. La patience sera votre alliée dans les relations amoureuses en ce moment. Prenez le temps de comprendre les besoins et les désirs de votre partenaire. Les Cancers chercheront la stabilité dans leurs relations amoureuses, recherchant un amour solide et durable. Soyez prêt à investir du temps et des efforts pour y parvenir.",
+    "travail":"Cette période est propice à la créativité au travail. Les idées novatrices pourraient vous apporter des opportunités de croissance. Soyez ouvert aux nouvelles approches et collaborez avec vos collègues.",
+    "argent":"La prudence est de mise dans la gestion financière. Évitez les dépenses impulsives et faites un budget réaliste. Une bonne planification financière vous aidera à atteindre vos objectifs à long terme.",
+    "sante":"Prenez soin de votre bien-être physique et émotionnel. L'équilibre est essentiel. Pratiquez la méditation ou le yoga pour réduire le stress et maintenez une alimentation équilibrée.",
+    "famille":"Les liens familiaux sont importants pour vous en ce moment. Organisez des moments spéciaux avec vos proches, écoutez leurs préoccupations et offrez votre soutien lorsque nécessaire. Votre cercle d'amis peut jouer un rôle crucial dans votre vie sociale. Soyez ouvert aux nouvelles amitiés et maintenez les anciennes. Les discussions profondes et les moments de rire renforceront vos relations amicales.",
+    "conseil":"Restez fidèle à vous-même et à vos valeurs. Écoutez votre intuition et suivez votre cœur. La confiance en soi et la persévérance vous mèneront loin dans tous les aspects de la vie.",
+    "image":"/img/cancer.png"},
+
+    {
+    "id":3,
+    "signe":"Capricorne",
+    "date":"21 décembre  au 20 janvier",
+    "amour": "Ce mois-ci, l'amour est au rendez-vous pour les Capricornes. Votre charme naturel sera irrésistible, attirant de nouvelles personnes dans votre vie. Les couples connaîtront une période de complicité accrue. Cultivez la communication pour renforcer vos liens et ravivez la flamme de la passion.",
+    "travail": "Dans le domaine professionnel, les astres prédisent une période de croissance et d'accomplissement. Votre détermination et votre créativité seront vos atouts majeurs. Saisissez de nouvelles opportunités et relevez des défis ambitieux. Votre leadership sera reconnu, ouvrant la voie à l'avancement et à des projets passionnants. Restez concentré sur vos objectifs pour atteindre vos ambitions professionnelles.",
+    "argent": "Concernant vos finances, ce mois-ci se caractérise par la stabilité. Gérez votre argent avec prudence, consolidez vos finances et adoptez des stratégies d'économie judicieuses. Évitez les dépenses impulsives et planifiez vos finances à long terme. Des investissements réfléchis peuvent porter leurs fruits. Restez vigilant pour maintenir une situation financière solide.",
+    "sante": "Accordez une attention particulière à votre bien-être physique et mental ce mois-ci. L'exercice régulier maintiendra votre énergie et vitalité. Gérez le stress en prenant des moments de relaxation. Une alimentation équilibrée et un sommeil suffisant sont essentiels pour une bonne santé.",
+    "famille": "Famille et amis seront sources de soutien et de réconfort. Passez du temps de qualité avec vos proches pour renforcer les liens affectifs. Écoutez leurs préoccupations et partagez les vôtres. La communication ouverte est la clé pour des relations harmonieuses.",
+    "conseil": "Rappelez-vous que la patience est une vertu ce mois-ci. Prenez le temps de réfléchir et d'évaluer toutes les options avant de prendre des décisions importantes, que ce soit dans votre carrière, vos finances ou vos relations. Une réflexion approfondie vous aidera à éviter les erreurs potentielles et à atteindre vos objectifs plus efficacement.",
+    "image":"/img/capricorne.png"}]
